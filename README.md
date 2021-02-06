@@ -24,7 +24,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.c9Dubz.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=material-palenight" />
 </a>
+
 
 ![](https://komarev.com/ghpvc/?username=c9Dubz-1908&label=visitors&color=ff69b4)
