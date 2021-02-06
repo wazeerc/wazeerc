@@ -1,6 +1,6 @@
 ### Hello, I'm Wazeer! 👋
 
-- 🔭Aspiring full stack developer 
+- 🔭 Aspiring full stack developer 
 - :man_student: Studying Information Technology at Curtin University
 
 ## Programming Languages:
