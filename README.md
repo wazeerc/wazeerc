@@ -5,11 +5,43 @@
 
 ## Programming Languages:
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
 
+   <a href="#">
+    <img src="svg/dev/languages/csharp_dotnet.svg" alt="csharp_dotnet" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  
+ 
+ 
+ 
 ### Currently Learning:
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+### Tools:
+
 
 ### 📫 Contact me:
 
@@ -17,7 +49,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@waseryer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/waseryer)](https://twitter.com/waseryer) 
 [![Linkedin Badge](https://img.shields.io/badge/-wazeerchadun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wazeerchadun//)](https://www.linkedin.com/in/wazeerchadun//) 
 
-### GitHub Stats:
+## GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
