@@ -8,7 +8,7 @@
 • 💬 Ask me about ...
 • 📫 How to reach me: 
 -->
-- My Socials:
+My Socials:
 
 <a href="https://twitter.com/waseryer">
   <img align="left" alt="Wazeer | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
