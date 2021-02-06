@@ -1,11 +1,8 @@
 ### Hello, I'm Wazeer! 👋
 
-<a href="https://twitter.com/waseryer">
-  <img align="left" alt="Wazeer's Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="“https://discordapp.com/users/Dubz#9583/">
-  <img align="left" alt="Wazeer's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+### 📫 Contact me
+
+[![Gmail Badge](https://img.shields.io/badge/-wchadun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wchadun@gmail.com)](mailto:wchadun@gmail.com)
 
 <br />
 <br />
@@ -27,5 +24,5 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=material-palenight" />
 </a>
 
-<br />
+
 ![](https://komarev.com/ghpvc/?username=c9Dubz-1908&label=visitors&color=ff69b4)
