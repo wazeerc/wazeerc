@@ -6,7 +6,8 @@
 ### 📫 Contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-wchadun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wchadun@gmail.com)](mailto:wchadun@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@waseryer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/waseryer)](https://twitter.com/waseryer) 
+[![Twitter Badge](https://img.shields.io/badge/-@My Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/waseryer)](https://twitter.com/waseryer) 
+[![Linkedin Badge](https://img.shields.io/badge/-My LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) 
 
 <br />
 <br />
