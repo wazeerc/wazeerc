@@ -3,12 +3,6 @@
 - 🔭Aspiring full stack developer 
 - :man_student: Studying Information Technology at Curtin University
 
-### 📫 Contact me:
-
-[![Gmail Badge](https://img.shields.io/badge/-wchadun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wchadun@gmail.com)](mailto:wchadun@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@waseryer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/waseryer)](https://twitter.com/waseryer) 
-[![Linkedin Badge](https://img.shields.io/badge/-wazeerchadun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wazeerchadun//)](https://www.linkedin.com/in/wazeerchadun//) 
-
 ## Programming Languages:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
@@ -17,6 +11,11 @@
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
+### 📫 Contact me:
+
+[![Gmail Badge](https://img.shields.io/badge/-wchadun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wchadun@gmail.com)](mailto:wchadun@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@waseryer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/waseryer)](https://twitter.com/waseryer) 
+[![Linkedin Badge](https://img.shields.io/badge/-wazeerchadun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wazeerchadun//)](https://www.linkedin.com/in/wazeerchadun//) 
 
 ### GitHub Stats:
 
