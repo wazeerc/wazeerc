@@ -1,14 +1,6 @@
-### Hello 👋
+### Hello, I'm Wazeer!👋
 
-<!--
-**c9Dubz/c9Dubz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-• 🔭 Aspiring full stack developer 
-• 🌱 Studying Information Technology at Curtin University
-• 💬 Ask me about ...
 • 📫 How to reach me: 
--->
-My Socials:
 
 <a href="https://twitter.com/waseryer">
   <img align="left" alt="Wazeer | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
