@@ -1,15 +1,15 @@
 ### Hello, I'm Wazeer! 👋
 
-### 📫 Contact me
+- 🔭 Aspiring full stack developer 
+- 🌱 Studying Information Technology at Curtin University
+
+### 📫 Contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-wchadun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wchadun@gmail.com)](mailto:wchadun@gmail.com)
 
+
 <br />
 <br />
-
-
-- 🔭 Aspiring full stack developer 
-- 🌱 Studying Information Technology at Curtin University
 
 ### Programming Languages:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
