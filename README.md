@@ -1,7 +1,7 @@
 ### Hello, I'm Wazeer! 👋
 
 - 🔭 Aspiring full stack developer 
-- 🌱 Studying Information Technology at Curtin University
+- :man_student: Studying Information Technology at Curtin University
 
 ### 📫 Contact me:
 
