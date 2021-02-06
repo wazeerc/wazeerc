@@ -1,3 +1,8 @@
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+
+
 ### Hello, I'm Wazeer! 👋
 
 - 🔭Aspiring full stack developer 
@@ -7,7 +12,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
    <a href="#">
