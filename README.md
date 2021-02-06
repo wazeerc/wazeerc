@@ -85,4 +85,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=material-palenight" />
 </a>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c9Dubz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
