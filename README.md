@@ -16,9 +16,7 @@
 
 
 ### GitHub Stats:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c9Dubz&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c9Dubz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=c9Dubz-1908&label=visitors&color=ff69b4)
