@@ -1,6 +1,6 @@
 ### Hello, I'm Wazeer! 👋
 
-- 🔭 Aspiring full stack developer 
+- 🔭Aspiring full stack developer 
 - :man_student: Studying Information Technology at Curtin University
 
 ### 📫 Contact me:
@@ -12,7 +12,9 @@
 ## Programming Languages:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
-### Learning:
+
+### Currently Learning:
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=code&logoColor=white&color=2bbc8a)
 
 
