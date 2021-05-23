@@ -85,7 +85,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=radical" />
   
   <a href="#">
-    <img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="350px">
+    <img align="center" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="150px">
   </a> 
   
 </a>
