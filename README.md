@@ -84,7 +84,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=radical" />
   
-  <img align="center" src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="350px"> 
+  <a href="#">
+    <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
   
 </a>
 
