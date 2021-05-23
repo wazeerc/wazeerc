@@ -1,5 +1,5 @@
 ### Hello, I'm Wazeer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
-<img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif width="30px"> 
+<img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="30px"> 
 
 - 🔭 Aspiring full stack developer 
 - :man_student: Studying Information Technology at Curtin University
