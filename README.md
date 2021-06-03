@@ -2,7 +2,7 @@
 
 - 🔭 Aspiring full stack developer 
   <a href="#">
-<img src="https://media.giphy.com/media/wboL3kaEe59AOitkjs/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/KBzfmrbqwmBe63G3QM/giphy.gif" width="100px"> 
+<img align="left" src="https://media.giphy.com/media/wboL3kaEe59AOitkjs/giphy.gif" width="85px"> <img align="left" src="https://media.giphy.com/media/KBzfmrbqwmBe63G3QM/giphy.gif" width="85px"> 
   </a>  
 - :man_student: Studying Information Technology at Curtin University
 
