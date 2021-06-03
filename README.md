@@ -1,6 +1,7 @@
 ### Hello, I'm Wazeer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-- 🔭 Aspiring full stack developer <img src="https://media.giphy.com/media/wboL3kaEe59AOitkjs/giphy.gif" width="30px"> <img src="https://media.giphy.com/media/KBzfmrbqwmBe63G3QM/giphy.gif" width="30px"> 
+- 🔭 Aspiring full stack developer 
+- <img src="https://media.giphy.com/media/wboL3kaEe59AOitkjs/giphy.gif" width="100px"> <img src="https://media.giphy.com/media/KBzfmrbqwmBe63G3QM/giphy.gif" width="100px"> 
 - :man_student: Studying Information Technology at Curtin University
 
 ## Programming Languages:
