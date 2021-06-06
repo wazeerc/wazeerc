@@ -82,7 +82,7 @@
 ## GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=c9Dubz&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=wazeerc&layout=compact&theme=radical" />
   
   <a href="#">
     <img align="center" src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="220px">
