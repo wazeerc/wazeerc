@@ -1,9 +1,10 @@
 ### Hello, I'm Wazeer!
 
 
-- 🔭 Aspiring full stack developer
-- :man_student: Studying Information Technology at Curtin University
+- 🤖 Application Developer
+- :man_student: Curtin University graduate in IT
 
+###### This section is not up-to-date;
 ## Programming Languages:
 
   <a href="#">
