@@ -1,7 +1,7 @@
 ### Hello, I'm Wazeer!
 
 
-- 🤖 Application Developer
+- 🤖 Software Developer
 - :man_student: Curtin University graduate in IT
 
 ###### This section is not up-to-date;
