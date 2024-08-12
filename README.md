@@ -1,7 +1,6 @@
 <h1 align="left">Hello, World! 👋</h1>
-<h3 align="left">I am Wazeer, a Software Developer working on industry-leading SaaS application(s).</h2>
 
-<h5 align="left">🔭 Currently working on React.js projects</h4>
+<h5 align="left">🔭 Currently working on React.js & Next.js projects</h4>
 
 <h6>Tools and technologies</h6>
 
