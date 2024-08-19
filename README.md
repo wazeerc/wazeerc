@@ -1,6 +1,6 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<h5 align="left">🔭 Currently working on React.js & Next.js projects</h4>
+<h5 align="left">🔭 Currently working on React projects</h4>
 
 <h6>Tools and technologies</h6>
 
@@ -46,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="15" />
