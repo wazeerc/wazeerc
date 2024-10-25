@@ -1,9 +1,9 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<h5 align="left">🔭 Currently working on React projects</h4>
+<h5 align="left">🔭 Front End • UI/UX • DevOps</h5>
+<h5 align="left">🌱 Currently working on Full Stack React & Vue projects</h5>
 
 <h6>Tools and technologies</h6>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="15" />
@@ -90,13 +90,13 @@
 
 <h6>GitHub Stats</h6>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wazeerc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wazeerc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=wazeerc&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=dracula&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=wazeerc&locale=en&mode=weekly&theme=nord&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=nord&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <h6>Let's get in touch! 📬</h6>
