@@ -101,7 +101,7 @@
 
 <h6>Let's get in touch! 📬</h6>
 
-[![Portfolio](https://img.shields.io/static/v1?message=Framer&logo=framer&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.wazeerc.framer.website)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](mailto:wchadun@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Portfolio](https://img.shields.io/static/v1?message=Framer&logo=framer&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.wazeerc.framer.website)
 [![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.youtube.com/@idontcode)
