@@ -90,18 +90,18 @@
 
 <h6>GitHub Stats</h6>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wazeerc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wazeerc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=wazeerc&locale=en&mode=weekly&theme=nord&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=nord&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=wazeerc&locale=en&mode=weekly&theme=gotham&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <h6>Let's get in touch! 📬</h6>
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](mailto:wchadun@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Portfolio](https://img.shields.io/static/v1?message=Framer&logo=framer&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.wazeerc.framer.website)
-[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=2e3440&logoColor=eee&labelColor=&style=for-the-badge)](https://www.youtube.com/@idontcode)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](mailto:wchadun@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Portfolio](https://img.shields.io/static/v1?message=Framer&logo=framer&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.wazeerc.framer.website)
+[![YouTube](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.youtube.com/@idontcode)
