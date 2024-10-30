@@ -101,6 +101,5 @@
 
 <h6>Let's get in touch! 📬</h6>
 
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](mailto:wchadun@gmail.com)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Portfolio](https://img.shields.io/static/v1?message=Framer&logo=framer&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
