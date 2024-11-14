@@ -57,10 +57,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h2>✒️ Recent Posts</h2>
+<h2>Recent Posts</h2>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/clean-code">Clean Code. A Myth?</a></li>
 
-<h2> 📬 Let's get in touch!</h2>
+<h2>Let's get in touch!</h2>
 
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
