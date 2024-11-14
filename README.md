@@ -60,14 +60,10 @@
 <h2>Recent Posts</h2>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/clean-code">Clean Code. A Myth?</a></li>
 
-<h2>Let's get in touch!</h2>
+<h3>Let's get in touch!</h2>
 
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-
-<h4>Random Quote</h4>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wazeerc/wazeerc/output/github-snake-dark.svg" />
