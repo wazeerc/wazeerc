@@ -58,7 +58,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h2>Recent Posts</h2>
+<h2>Recent Blog Posts</h2>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/clean-code">Clean Code. A Myth?</a></li>
 
 <h3>Let's get in touch!</h2>
