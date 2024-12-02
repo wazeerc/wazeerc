@@ -60,6 +60,7 @@
 
 <h2>Recent Blog Posts</h2>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/clean-code">Clean Code. A Myth?</a></li>
+<li><a target="_blank" href="https://wazeerc.framer.website/blog/react-good-and-bad">React sucks. Here is why you should learn it.</a></li>
 
 <h3>Let's get in touch!</h2>
 
