@@ -1,11 +1,10 @@
 <h1 align="left">Hello, World! 👋</h1>
 
-<h4 align="left">🔭 Front End • UI/UX • DevOps</h4>
-<h4 align="left">🌱 Currently learning Software/Frontend Architecture</h4>
+<p align="left">🔭 Front End • UI/UX • DevOps</p>
+<p align="left">🌱 Currently learning Software/Frontend Architecture</p>
+<p align="left">👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
-<h4 align="left">👨‍🎓 BCom BIT Graduate • MSc Student</h4>
-
-<h2>Tools and technologies</h2>
+<h2>Tools & Technologies</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo" />
@@ -58,11 +57,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h2>Recent Blog Posts</h2>
+<h2>Recent Blog Posts 📝</h2>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/clean-code">Clean Code. A Myth?</a></li>
 <li><a target="_blank" href="https://wazeerc.framer.website/blog/react-good-and-bad">React sucks. Here is why you should learn it.</a></li>
 
-<h3>Let's get in touch!</h2>
+<h2>Let's get in touch 📬</h2>
 
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=framer&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
