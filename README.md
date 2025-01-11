@@ -66,9 +66,3 @@
 
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=htmx&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wazeerc/wazeerc/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wazeerc/wazeerc/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/wazeerc/wazeerc/output/github-snake.svg" />
-</picture>
