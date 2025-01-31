@@ -63,5 +63,5 @@
 
 <h2>Let's get in touch 📬</h2>
 
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=framer&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.framer.website)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
