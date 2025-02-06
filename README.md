@@ -1,7 +1,7 @@
 <h1 align="left">Hello, World! 👋</h1>
 
 <p align="left">🔭 Front End • UI/UX • DevOps</p>
-<p align="left">🌱 Currently learning Software/Frontend Architecture</p>
+<p align="left">🌱 Currently learning DevOps</p>
 <p align="left">👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
 <h2>Tools & Technologies</h2>
