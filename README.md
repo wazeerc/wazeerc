@@ -58,8 +58,8 @@
 </div>
 
 <h2>Recent Blog Posts 📝</h2>
+<li><a target="_blank" href="https://wazeerc.github.io/blog/why-ux-matters/">Why UX Matters</a></li>
 <li><a target="_blank" href="https://wazeerc.github.io/blog/learning-vue/">I Built an App With a JS Library I Just Learned</a></li>
-<li><a target="_blank" href="https://wazeerc.github.io/blog/react-good-and-bad/">React sucks. Here is why you should learn it.</a></li>
 
 <h2>Let's get in touch 📬</h2>
 
