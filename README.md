@@ -1,10 +1,11 @@
-<h1 align="left">Hello, World! 👋</h1>
+# Hello, World! 👋
 
-<p align="left">🔭 Front End • UI/UX • DevOps</p>
-<p align="left">🌱 Currently learning DevOps</p>
-<p align="left">👨‍🎓 BCom BIT Graduate • MSc Student</p>
+<p>🔭 Front End • UI/UX • DevOps</p>
+<p>🌱 Currently learning DevOps</p>
+<p>👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
-<h2>Tools & Technologies</h2>
+## Tools & Technologies
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="45" alt="astro logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure logo" />
@@ -42,7 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo" />
 </div>
 
-<h2>GitHub Stats</h5>
+## GitHub Stats
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wazeerc&theme=gotham&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
@@ -53,11 +55,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<h2>Recent Blog Posts 📝</h2>
-<li><a target="_blank" href="https://wazeerc.github.io/blog/why-ux-matters/">Why UX Matters</a></li>
-<li><a target="_blank" href="https://wazeerc.github.io/blog/learning-vue/">I Built an App With a JS Library I Just Learned</a></li>
+## Recent Blog Posts 📝
 
-<h2>Let's get in touch 📬</h2>
+- [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
+- [I Built an App With a JS Library I Just Learned](https://wazeerc.github.io/blog/learning-vue/)
+
+## Let's talk 📬
 
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeerc.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
