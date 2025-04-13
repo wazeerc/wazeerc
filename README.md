@@ -57,8 +57,8 @@
 
 ## Recent Blog Posts 📝
 
+- [best practices irl](https://wazeerc.github.io/blog/best-practices/)
 - [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
-- [I Built an App With a JS Library I Just Learned](https://wazeerc.github.io/blog/learning-vue/)
 
 ## Let's talk 📬
 
