@@ -55,7 +55,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=wazeerc&theme=onestar&column=3&row=2&margin-w=10&margin-h=10&no-bg=false&no-frame=true&order=4" height="155" alt="trophy graph"  />
 </div>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=wazeerc&theme=gotham&hide_border=true)" width="450" alt="project contributions"  />
+<img src="https://github-contributor-stats.vercel.app/api?username=wazeerc&theme=gotham&hide_border=true" width="425" alt="project contributions"  />
 
 ## Recent Blog Posts 📝
 
