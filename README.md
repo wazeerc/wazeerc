@@ -4,6 +4,8 @@
 <p>🌱 Currently learning DevOps</p>
 <p>👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
+#### 👾 View the cool projects I worked on — [here](https://github.com/stars/wazeerc/lists/projects)
+
 ## Tools & Technologies
 
 <div align="left">
@@ -56,10 +58,6 @@
 </div>
 
 <img src="https://github-contributor-stats.vercel.app/api?username=wazeerc&theme=gotham&hide_border=true" width="425" alt="project contributions"  />
-
----
-
-#### 👾 View the cool projects I worked on — [here](https://github.com/stars/wazeerc/lists/projects)
 
 ## Recent Blog Posts 📝
 
