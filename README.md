@@ -62,6 +62,7 @@
 
 ## Recent Blog Posts 📝
 
+- [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/) 
 - [best practices irl](https://wazeerc.github.io/blog/best-practices/)
 - [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
 
