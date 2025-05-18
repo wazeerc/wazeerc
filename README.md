@@ -4,7 +4,7 @@
 <p>🌱 Currently learning DevOps</p>
 <p>👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
-#### 👾 View the cool projects I worked on [here](https://github.com/stars/wazeerc/lists/projects)
+#### 👾 Check out the projects I worked on [here](https://github.com/stars/wazeerc/lists/projects)
 
 ## Tools & Technologies
 
