@@ -4,7 +4,7 @@
 
 🌱 Currently learning Agentic AI
 
-👨‍🎓 BCom BIT Graduate • MSc Student
+👨‍🎓 BIT Graduate • MSc Student
 
 ---
 
