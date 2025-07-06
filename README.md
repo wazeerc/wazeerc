@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 <p>🔭 Front End • UI/UX • DevOps</p>
-<p>🌱 Currently learning DevOps</p>
+<p>🌱 Currently learning Agentic AIs</p>
 <p>👨‍🎓 BCom BIT Graduate • MSc Student</p>
 
 #### 👾 Check out the projects I worked on [here](https://github.com/stars/wazeerc/lists/projects)
