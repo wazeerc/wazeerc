@@ -50,7 +50,7 @@
 
 ---
 
-### 👾 Check out [my projects!](https://github.com/stars/wazeerc/lists/projects)
+### 👾 Check out [my projects](https://github.com/stars/wazeerc/lists/projects)
 
 #### 📝 Recent Blog Posts
 
