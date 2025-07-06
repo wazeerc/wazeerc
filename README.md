@@ -20,6 +20,6 @@
 
 ### 📬 Let's connect
 
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://wazeer.dev)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=0c1014&logoColor=268f77&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](https://wazeer.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
