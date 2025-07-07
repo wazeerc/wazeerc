@@ -60,6 +60,14 @@
 
 #### 📬 Let's connect
 
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](https://wazeer.dev)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=38686A&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=501daf&labelColor=&style=for-the-badge)](https://wazeer.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=501daf&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=501daf&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&rank_icon=github&number_format=long)
+![GitHub Streak](https://streak-stats.demolab.com?user=wazeerc&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=200&card_height=100&hide_total_contributions=true&hide_longest_streak=true)
+![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazeerc&theme=github_dark&show_icons=true&hide_border=true&layout=compact&hide=css,html,jupyter%20notebook,c%2B%2B)
