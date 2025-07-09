@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-🔭 UI/UX • DevOps • AI
+🔭 UI/UX • AI • DevOps
 
 🌱 Currently learning Agentic AI
 
