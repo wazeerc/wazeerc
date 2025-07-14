@@ -1,5 +1,7 @@
 ## Hello, World! 👋
 
+**I'm Wazeer, I like building cool things with tech.**
+
 🔭 UI/UX • AI • DevOps
 
 🌱 Currently learning Agentic AI
