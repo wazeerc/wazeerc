@@ -6,8 +6,6 @@
 
 👨‍🎓 BIT Graduate • MSc Student
 
----
-
 ### Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
@@ -48,8 +46,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
----
-
 ### 👾 Check out [my projects](https://github.com/stars/wazeerc/lists/projects)
 
 #### 📝 Recent Blog Posts
@@ -63,8 +59,6 @@
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://wazeer.dev)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
 [![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
-
----
 
 ### Stats
 
