@@ -50,16 +50,9 @@
 
 ### 👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)
 
-####  Open-Source projects I recently contributed to:
-[themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue)\
-[inttter/md-badges](https://github.com/inttter/md-badges)\
-[TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
+####  Open-Source projects I recently contributed to: [themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue), [inttter/md-badges](https://github.com/inttter/md-badges), [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 
-#### 📝 Latest Blog Posts
-
-[TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/)\
-[best practices irl](https://wazeerc.github.io/blog/best-practices/)\
-[Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
+#### 📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
 
 #### 📬 Let's connect
 
