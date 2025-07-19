@@ -55,7 +55,7 @@
 - [inttter/md-badges](https://github.com/inttter/md-badges)
 - [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 
-#### 📝 Recent Blog Posts
+#### 📝 Latest Blog Posts
 
 - [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/) 
 - [best practices irl](https://wazeerc.github.io/blog/best-practices/)
