@@ -48,7 +48,12 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
-### 👾 Check out [my projects](https://github.com/stars/wazeerc/lists/projects)
+### 👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)
+
+####  Open-Source projects I recently contributed to
+- [themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue)
+- [inttter/md-badges](https://github.com/inttter/md-badges)
+- [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 
 #### 📝 Recent Blog Posts
 
