@@ -1,4 +1,4 @@
-## Hello, World! 👋
+### Hello, World! 👋
 
 **I'm Wazeer, I build cool things with tech.**
 
@@ -7,6 +7,8 @@
 🌱 Currently learning Agentic AI
 
 👨‍🎓 BIT Graduate • MSc Student
+
+---
 
 ### Tech Stack
 
@@ -48,17 +50,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
-### 👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)
+---
 
-####  Open-Source projects I recently contributed to: [themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue), [inttter/md-badges](https://github.com/inttter/md-badges), [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
+### Links
 
-#### 📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
+**👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)**
+
+**🗃️ Open-Source projects I recently contributed to: [themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue), [inttter/md-badges](https://github.com/inttter/md-badges), [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)**
+
+**📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)**
 
 #### 📬 Let's connect
 
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://wazeer.dev)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
 [![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+
+---
 
 ### Stats
 
