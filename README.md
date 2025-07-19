@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-**I'm Wazeer, I like building cool things with tech.**
+**I'm Wazeer, I build cool things with tech.**
 
 🔭 UI/UX • AI • DevOps
 
