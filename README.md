@@ -56,8 +56,6 @@
 
 **👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)**
 
-**🗃️ Open-Source projects I recently contributed to: [themesberg/flowbite-vue](https://github.com/themesberg/flowbite-vue), [inttter/md-badges](https://github.com/inttter/md-badges), [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)**
-
 **📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)**
 
 #### 📬 Let's connect
@@ -73,3 +71,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&number_format=long)
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazeerc&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=css,html,jupyter%20notebook,c%2B%2B)
 ![GitHub Streak](https://streak-stats.demolab.com?user=wazeerc&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=150&card_height=100&hide_total_contributions=true&hide_longest_streak=true)
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wazeerc&&limit=5&hide_contributor_rank=false&theme=nightowl&hide_border=true)
