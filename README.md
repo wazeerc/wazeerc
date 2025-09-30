@@ -71,11 +71,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazeerc&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&number_format=long)
 ![GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazeerc&theme=nightowl&show_icons=true&hide_border=true&layout=compact&hide=css,html,jupyter%20notebook,c%2B%2B)
 ![GitHub Streak](https://streak-stats.demolab.com?user=wazeerc&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=150&card_height=100&hide_total_contributions=true&hide_longest_streak=true)
-
-### Recent Activity
-
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wazeerc&&limit=5&hide_contributor_rank=false&theme=nightowl&hide_border=true)
 
+---
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10478](https://github.com/zen-browser/desktop/issues/10478#issuecomment-3348306547) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
 2. 🗣 Commented on [#10478](https://github.com/zen-browser/desktop/issues/10478#issuecomment-3347927638) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
@@ -83,3 +82,4 @@
 4. 🗣 Commented on [#30](https://github.com/HwangTaehyun/github-repository-contribution-stats/pull/30#issuecomment-3296131531) in [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
 5. 💪 Opened PR [#30](https://github.com/HwangTaehyun/github-repository-contribution-stats/pull/30) in [HwangTaehyun/github-repository-contribution-stats](https://github.com/HwangTaehyun/github-repository-contribution-stats)
 <!--END_SECTION:activity-->
+---
