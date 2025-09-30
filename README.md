@@ -77,5 +77,3 @@
 ![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=wazeerc&&limit=5&hide_contributor_rank=false&theme=nightowl&hide_border=true)
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
