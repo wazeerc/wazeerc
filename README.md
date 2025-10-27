@@ -76,9 +76,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10481](https://github.com/zen-browser/desktop/issues/10481#issuecomment-3394710844) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. ❗ Opened issue [#10792](https://github.com/zen-browser/desktop/issues/10792) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 💪 Opened PR [#6](undefined) in [nuxt-ui-templates/chat-vue](https://github.com/nuxt-ui-templates/chat-vue)
+1. 💪 Opened PR [#1](undefined) in [wazeerc/neovim](https://github.com/wazeerc/neovim)
+2. ❌ Assigned PR [#1](undefined) in [wazeerc/neovim](https://github.com/wazeerc/neovim)
+3. 🗣 Commented on [#7819](https://github.com/nvim-treesitter/nvim-treesitter/issues/7819#issuecomment-3422268466) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 4. 🎉 Merged PR [#1](https://github.com/wazeerc/arch/pull/1) in [wazeerc/arch](https://github.com/wazeerc/arch)
 5. 💪 Opened PR [#6](https://github.com/nuxt-ui-templates/chat-vue/pull/6) in [nuxt-ui-templates/chat-vue](https://github.com/nuxt-ui-templates/chat-vue)
 <!--END_SECTION:activity-->
