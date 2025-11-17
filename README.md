@@ -76,9 +76,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-2. ❌ Assigned PR [#21](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. 💪 Opened PR [#21](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. ❌ Closed PR [#19](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. 💪 Opened PR [#20](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 🗣 Commented on [#26](https://github.com/wazeerc/PrevueMD/pull/26#issuecomment-3538240217) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+2. 🗣 Commented on [#26](https://github.com/wazeerc/PrevueMD/pull/26#issuecomment-3538228689) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+3.  Labeled issue [#25](https://github.com/wazeerc/PrevueMD/issues/25) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+4. ❗ Opened issue [#25](https://github.com/wazeerc/PrevueMD/issues/25) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5.  Assigned issue [#25](https://github.com/wazeerc/PrevueMD/issues/25) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
