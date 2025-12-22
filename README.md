@@ -76,9 +76,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-2. 💪 Opened PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. ❌ Assigned PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. ❌ Merged PR [#30](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. 💪 Opened PR [#30](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 🔒 Closed issue [#24](https://github.com/auth0/auth0-nuxt/issues/24) in [auth0/auth0-nuxt](https://github.com/auth0/auth0-nuxt)
+2. ❌ Merged PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+3. 💪 Opened PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+4. ❌ Assigned PR [#31](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5. ❌ Merged PR [#30](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
