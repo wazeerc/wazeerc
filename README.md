@@ -4,7 +4,7 @@
 
 🔭 UI/UX • AI • DevOps
 
-🌱 Currently learning Agentic AI
+🌱 Currently experimenting with Linux and SBCs
 
 👨‍🎓 BIT graduate • MSc student
 
