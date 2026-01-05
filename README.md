@@ -76,9 +76,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#32](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-2. ❌ Labeled PR [#32](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. ❌ Labeled PR [#32](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. ❌ Assigned PR [#32](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. 💪 Opened PR [#32](undefined) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 🎉 Merged PR [#32](https://github.com/wazeerc/PrevueMD/pull/32) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+2. ℹ️ Labeled PR [#32](https://github.com/wazeerc/PrevueMD/pull/32) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+3. ℹ️ Labeled PR [#32](https://github.com/wazeerc/PrevueMD/pull/32) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+4. ℹ️ Assigned PR [#32](https://github.com/wazeerc/PrevueMD/pull/32) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5. 💪 Opened PR [#32](https://github.com/wazeerc/PrevueMD/pull/32) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
