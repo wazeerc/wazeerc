@@ -60,9 +60,9 @@
 
 #### 📬 Let's connect
 
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://wazeer.dev)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=7bd4c4&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://wazeer.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
 
 ---
 
