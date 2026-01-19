@@ -76,9 +76,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10792](https://github.com/zen-browser/desktop/issues/10792) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#10792](https://github.com/zen-browser/desktop/issues/10792#issuecomment-3734912064) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🎉 Merged PR [#4](https://github.com/wazeerc/dashed/pull/4) in [wazeerc/dashed](https://github.com/wazeerc/dashed)
-4. ℹ️ Assigned PR [#4](https://github.com/wazeerc/dashed/pull/4) in [wazeerc/dashed](https://github.com/wazeerc/dashed)
-5. 💪 Opened PR [#4](https://github.com/wazeerc/dashed/pull/4) in [wazeerc/dashed](https://github.com/wazeerc/dashed)
+1. 🎉 Merged PR [#20](https://github.com/wazeerc/nao.ai/pull/20) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
+2. 💪 Opened PR [#20](https://github.com/wazeerc/nao.ai/pull/20) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
+3. ℹ️ Assigned PR [#20](https://github.com/wazeerc/nao.ai/pull/20) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
+4. ❌ Closed PR [#19](https://github.com/wazeerc/nao.ai/pull/19) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
+5. 🚀 Published release [v.0.0.3](https://github.com/wazeerc/carbon/releases/tag/v0.0.3) in [wazeerc/carbon](https://github.com/wazeerc/carbon)
 <!--END_SECTION:activity-->
