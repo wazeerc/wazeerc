@@ -63,6 +63,7 @@
 [![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://wazeer.dev)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
 [![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+![](https://komarev.com/ghpvc/?username=wazeerc&label=Views&color=2d4f67&style=for-the-badge&abbreviated=true)
 
 ---
 
