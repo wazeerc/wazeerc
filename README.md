@@ -77,9 +77,9 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-2. 💪 Opened PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. ℹ️ Assigned PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. 🔒 Closed issue [#12](https://github.com/wazeerc/nao.ai/issues/12) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
+1. ❗ Opened issue [#15515](https://github.com/withastro/astro/issues/15515) in [withastro/astro](https://github.com/withastro/astro)
+2. 🎉 Merged PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+3. 💪 Opened PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+4. ℹ️ Assigned PR [#33](https://github.com/wazeerc/PrevueMD/pull/33) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 5. 🔒 Closed issue [#12](https://github.com/wazeerc/nao.ai/issues/12) in [wazeerc/nao.ai](https://github.com/wazeerc/nao.ai)
 <!--END_SECTION:activity-->
