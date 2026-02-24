@@ -84,5 +84,7 @@
 5. 🎉 Merged PR [#35](https://github.com/wazeerc/PrevueMD/pull/35) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
 
+---
+
 ### CommitStory.io
 <img width="1536" height="1072" alt="github-story-Sci-Fi" src="https://github.com/user-attachments/assets/2f2e5537-f953-4682-8d92-bc77f970c9eb" />
