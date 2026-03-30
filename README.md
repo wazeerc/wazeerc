@@ -78,7 +78,7 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 💪 Opened PR [#30](https://github.com/MrSunshyne/mauritius-fuel-prices/pull/30) in [MrSunshyne/mauritius-fuel-prices](https://github.com/MrSunshyne/mauritius-fuel-prices)
 2. ℹ️ Labeled PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 3. ℹ️ Assigned PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 4. 💪 Opened PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
