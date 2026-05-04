@@ -78,11 +78,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/MrSunshyne/mauritius-fuel-prices/pull/30) in [MrSunshyne/mauritius-fuel-prices](https://github.com/MrSunshyne/mauritius-fuel-prices)
-2. 💪 Opened PR [#30](https://github.com/MrSunshyne/mauritius-fuel-prices/pull/30) in [MrSunshyne/mauritius-fuel-prices](https://github.com/MrSunshyne/mauritius-fuel-prices)
-3. ℹ️ Assigned PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. 💪 Opened PR [#36](https://github.com/wazeerc/PrevueMD/pull/36) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. 🎉 Merged PR [#35](https://github.com/wazeerc/PrevueMD/pull/35) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 🔒 Closed issue [#1345](https://github.com/vicinaehq/vicinae/issues/1345) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+2. 🗣 Commented on [#1345](https://github.com/vicinaehq/vicinae/issues/1345#issuecomment-4366022593) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+3. 🗣 Commented on [#304129](https://github.com/microsoft/vscode/issues/304129#issuecomment-4365646769) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#67](https://github.com/commitvc/osscar/pull/67) in [commitvc/osscar](https://github.com/commitvc/osscar)
+5. ❗ Opened issue [#1345](https://github.com/vicinaehq/vicinae/issues/1345) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
 <!--END_SECTION:activity-->
 
 ---
