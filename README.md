@@ -78,11 +78,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#67](https://github.com/commitvc/osscar/pull/67) in [commitvc/osscar](https://github.com/commitvc/osscar)
-2. ❌ Closed PR [#44](https://github.com/wazeerc/PrevueMD/pull/44) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. ❌ Closed PR [#45](https://github.com/wazeerc/PrevueMD/pull/45) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-4. ❌ Closed PR [#43](https://github.com/wazeerc/PrevueMD/pull/43) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. 🔒 Closed issue [#1345](https://github.com/vicinaehq/vicinae/issues/1345) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+1. 🗣 Commented on [#3388](https://github.com/ReVanced/revanced-manager/issues/3388#issuecomment-4589942443) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+2. 🗣 Commented on [#3368](https://github.com/ReVanced/revanced-manager/issues/3368#issuecomment-4575122552) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
+3. 🎉 Merged PR [#67](https://github.com/commitvc/osscar/pull/67) in [commitvc/osscar](https://github.com/commitvc/osscar)
+4. ❌ Closed PR [#44](https://github.com/wazeerc/PrevueMD/pull/44) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5. ❌ Closed PR [#45](https://github.com/wazeerc/PrevueMD/pull/45) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
 
 ---
