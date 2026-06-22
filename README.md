@@ -78,11 +78,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3388](https://github.com/ReVanced/revanced-manager/issues/3388#issuecomment-4589942443) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
-2. 🗣 Commented on [#3368](https://github.com/ReVanced/revanced-manager/issues/3368#issuecomment-4575122552) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
-3. 🎉 Merged PR [#67](https://github.com/commitvc/osscar/pull/67) in [commitvc/osscar](https://github.com/commitvc/osscar)
-4. ❌ Closed PR [#44](https://github.com/wazeerc/PrevueMD/pull/44) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-5. ❌ Closed PR [#45](https://github.com/wazeerc/PrevueMD/pull/45) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+1. 🔒 Closed issue [#15](https://github.com/jkennethcarino/adobo/issues/15) in [jkennethcarino/adobo](https://github.com/jkennethcarino/adobo)
+2. ❗ Opened issue [#1355](https://github.com/crimera/piko/issues/1355) in [crimera/piko](https://github.com/crimera/piko)
+3. ℹ️ Labeled issue [#15](https://github.com/jkennethcarino/adobo/issues/15) in [jkennethcarino/adobo](https://github.com/jkennethcarino/adobo)
+4. ❗ Opened issue [#15](https://github.com/jkennethcarino/adobo/issues/15) in [jkennethcarino/adobo](https://github.com/jkennethcarino/adobo)
+5. 🗣 Commented on [#3388](https://github.com/ReVanced/revanced-manager/issues/3388#issuecomment-4589942443) in [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager)
 <!--END_SECTION:activity-->
 
 ---
