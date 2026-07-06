@@ -78,11 +78,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/wazeerc/PrevueMD/pull/46) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-2. ℹ️ Assigned PR [#46](https://github.com/wazeerc/PrevueMD/pull/46) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
-3. 🔒 Closed issue [#15](https://github.com/jkennethcarino/adobo/issues/15) in [jkennethcarino/adobo](https://github.com/jkennethcarino/adobo)
-4. ❗ Opened issue [#1355](https://github.com/crimera/piko/issues/1355) in [crimera/piko](https://github.com/crimera/piko)
-5. ℹ️ Labeled issue [#15](https://github.com/jkennethcarino/adobo/issues/15) in [jkennethcarino/adobo](https://github.com/jkennethcarino/adobo)
+1. 💪 Opened PR [#4](https://github.com/Google-Health-API/google-health-cli/pull/4) in [Google-Health-API/google-health-cli](https://github.com/Google-Health-API/google-health-cli)
+2. 💪 Opened PR [#10](https://github.com/MrSunshyne/mauritius-dataset-electricity/pull/10) in [MrSunshyne/mauritius-dataset-electricity](https://github.com/MrSunshyne/mauritius-dataset-electricity)
+3. ❗ Opened issue [#9](https://github.com/MrSunshyne/mauritius-dataset-electricity/issues/9) in [MrSunshyne/mauritius-dataset-electricity](https://github.com/MrSunshyne/mauritius-dataset-electricity)
+4. 🎉 Merged PR [#46](https://github.com/wazeerc/PrevueMD/pull/46) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5. ℹ️ Assigned PR [#46](https://github.com/wazeerc/PrevueMD/pull/46) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
 <!--END_SECTION:activity-->
 
 ---
