@@ -55,7 +55,7 @@
 
 ### Links
 
-**👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects)**
+**👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects) & open-source [contributions](https://github.com/search?q=is%3Apr%20author%3Awazeerc%20-user%3Awazeerc&type=pullrequests)**
 
 **📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)**
 
