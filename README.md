@@ -1,10 +1,8 @@
-### Hello, World! 👋
-
-**I'm Wazeer, I build cool things with tech.**
+### Hello, World! I'm Wazeer 👋
 
 🔭 UI/UX • AI • DevOps
 
-🌱 Currently experimenting with Linux and SBCs
+🌱 Currently experimenting with Linux and Android
 
 👨‍🎓 BIT graduate • MSc student
 
