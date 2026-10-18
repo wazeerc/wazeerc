@@ -13,9 +13,9 @@
 **👾 Check out all my [projects](https://github.com/stars/wazeerc/lists/projects) & open-source [contributions](https://github.com/search?q=is%3Apr%20author%3Awazeerc%20-user%3Awazeerc&type=pullrequests)**
 
 **🚀 Projects I just shipped**:
-- [Calc - just a helpful calculator](https://calc.wazeer.dev/)
-- [Text Diff - Git-style text diff UI](https://diff.wazeer.dev/)
-- [PrevueMD - A real-time Markdown editor](https://md.wazeer.dev/)
+- [Calc](https://calc.wazeer.dev/) — just a helpful calculator
+- [Text Diff](https://diff.wazeer.dev/) — Git-style text diff UI
+- [PrevueMD](https://md.wazeer.dev/) — A real-time Markdown editor
 
 **📝 Latest Blog Posts**: 
 - [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/)
