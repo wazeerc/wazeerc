@@ -8,6 +8,29 @@
 
 ---
 
+### Links
+
+**👾 Check out all my [projects](https://github.com/stars/wazeerc/lists/projects) & open-source [contributions](https://github.com/search?q=is%3Apr%20author%3Awazeerc%20-user%3Awazeerc&type=pullrequests)**
+
+**🚀 Projects I just shipped**:
+- [Calc - just a helpful calculator](https://calc.wazeer.dev/)
+- [Text Diff - Git-style text diff UI](https://diff.wazeer.dev/)
+- [PrevueMD - A real-time Markdown editor](https://md.wazeer.dev/)
+
+**📝 Latest Blog Posts**: 
+- [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/)
+- [best practices irl](https://wazeerc.github.io/blog/best-practices/)
+- [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)
+
+#### 📬 Let's connect:
+
+[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://wazeer.dev)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
+![](https://komarev.com/ghpvc/?username=wazeerc&label=Views&color=2d4f67&style=for-the-badge&abbreviated=true)
+
+---
+
 ### Tech Stack
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
@@ -48,21 +71,6 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-
----
-
-### Links
-
-**👾 Check out my [projects](https://github.com/stars/wazeerc/lists/projects) & open-source [contributions](https://github.com/search?q=is%3Apr%20author%3Awazeerc%20-user%3Awazeerc&type=pullrequests)**
-
-**📝 Latest Blog Posts: [TypeScript Features You’re Sleeping On](https://wazeerc.github.io/blog/typescript-tips/), [best practices irl](https://wazeerc.github.io/blog/best-practices/), [Why UX Matters](https://wazeerc.github.io/blog/why-ux-matters/)**
-
-#### 📬 Let's connect:
-
-[![Portfolio](https://img.shields.io/static/v1?message=Website&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://wazeer.dev)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/wazeerc/)
-[![Email](https://img.shields.io/static/v1?message=Email&logo=&label=&color=2d4f67&labelColor=&style=for-the-badge)](mailto:contact@wazeer.dev)
-![](https://komarev.com/ghpvc/?username=wazeerc&label=Views&color=2d4f67&style=for-the-badge&abbreviated=true)
 
 ---
 
