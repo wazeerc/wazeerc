@@ -13,6 +13,7 @@
 **👾 Check out all my [projects](https://github.com/stars/wazeerc/lists/projects) & open-source [contributions](https://github.com/search?q=is%3Apr%20author%3Awazeerc%20-user%3Awazeerc&type=pullrequests)**
 
 **🚀 Projects I just shipped**:
+- [Skills](https://www.skills.sh/wazeerc/skills) — Collection of AI Skills
 - [Calc](https://calc.wazeer.dev/) — just a helpful calculator
 - [Text Diff](https://diff.wazeer.dev/) — Git-style text diff UI
 - [PrevueMD](https://md.wazeer.dev/) — A real-time Markdown editor
