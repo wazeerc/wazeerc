@@ -85,11 +85,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#869](https://github.com/sameerasw/essentials/issues/869#issuecomment-5756369462) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-2. 🗣 Commented on [#869](https://github.com/sameerasw/essentials/issues/869#issuecomment-5748059492) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-3. 🗣 Commented on [#869](https://github.com/sameerasw/essentials/issues/869#issuecomment-5739111985) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-4. 🗣 Commented on [#1060](https://github.com/sameerasw/essentials/pull/1060#issuecomment-5739079438) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-5. 🗣 Commented on [#869](https://github.com/sameerasw/essentials/issues/869#issuecomment-5733788339) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
+1. ❗ Opened issue [#6134](https://github.com/different-ai/openwork/issues/6134) in [different-ai/openwork](https://github.com/different-ai/openwork)
+2. ℹ️ Labeled issue [#1436](https://github.com/sameerasw/essentials/issues/1436) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
+3. ❗ Opened issue [#1436](https://github.com/sameerasw/essentials/issues/1436) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
+4. ℹ️ Assigned issue [#1436](https://github.com/sameerasw/essentials/issues/1436) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
+5. ℹ️ Labeled issue [#1246](https://github.com/sameerasw/essentials/issues/1246) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
 <!--END_SECTION:activity-->
 
 ---
