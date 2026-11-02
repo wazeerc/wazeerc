@@ -85,11 +85,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#36](https://github.com/vicinaehq/gnome-extension/issues/36) in [vicinaehq/gnome-extension](https://github.com/vicinaehq/gnome-extension)
-2. 🔒 Closed issue [#869](https://github.com/sameerasw/essentials/issues/869) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-3. ❗ Opened issue [#3985](https://github.com/MorpheApp/morphe-patches/issues/3985) in [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)
-4. ❗ Opened issue [#1523](https://github.com/sameerasw/essentials/issues/1523) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
-5. ℹ️ Labeled issue [#1523](https://github.com/sameerasw/essentials/issues/1523) in [sameerasw/essentials](https://github.com/sameerasw/essentials)
+1. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6463217576) in [wazeerc/calc](https://github.com/wazeerc/calc)
+2. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6449262243) in [wazeerc/calc](https://github.com/wazeerc/calc)
+3. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6448703249) in [wazeerc/calc](https://github.com/wazeerc/calc)
+4. 🗣 Commented on [#36](https://github.com/vicinaehq/gnome-extension/issues/36#issuecomment-6434987022) in [vicinaehq/gnome-extension](https://github.com/vicinaehq/gnome-extension)
+5. ❗ Opened issue [#36](https://github.com/vicinaehq/gnome-extension/issues/36) in [vicinaehq/gnome-extension](https://github.com/vicinaehq/gnome-extension)
 <!--END_SECTION:activity-->
 
 ---
