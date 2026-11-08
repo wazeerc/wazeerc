@@ -4,8 +4,6 @@
 
 🌱 Currently experimenting with Linux and Android
 
-👨‍🎓 BIT graduate • MSc student
-
 ---
 
 ### Links
