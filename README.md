@@ -84,11 +84,11 @@
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6463217576) in [wazeerc/calc](https://github.com/wazeerc/calc)
-2. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6449262243) in [wazeerc/calc](https://github.com/wazeerc/calc)
-3. 🗣 Commented on [#1](https://github.com/wazeerc/calc/pull/1#issuecomment-6448703249) in [wazeerc/calc](https://github.com/wazeerc/calc)
-4. 🗣 Commented on [#36](https://github.com/vicinaehq/gnome-extension/issues/36#issuecomment-6434987022) in [vicinaehq/gnome-extension](https://github.com/vicinaehq/gnome-extension)
-5. ❗ Opened issue [#36](https://github.com/vicinaehq/gnome-extension/issues/36) in [vicinaehq/gnome-extension](https://github.com/vicinaehq/gnome-extension)
+1. 🗣 Commented on [#59](https://github.com/wazeerc/PrevueMD/pull/59#issuecomment-6731607190) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+2. 🗣 Commented on [#2140](https://github.com/vicinaehq/vicinae/issues/2140#issuecomment-6731384322) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+3. 🔒 Closed issue [#2140](https://github.com/vicinaehq/vicinae/issues/2140) in [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae)
+4. 🗣 Commented on [#59](https://github.com/wazeerc/PrevueMD/pull/59#issuecomment-6731347947) in [wazeerc/PrevueMD](https://github.com/wazeerc/PrevueMD)
+5. 🗣 Commented on [#3985](https://github.com/MorpheApp/morphe-patches/issues/3985#issuecomment-6731346343) in [MorpheApp/morphe-patches](https://github.com/MorpheApp/morphe-patches)
 <!--END_SECTION:activity-->
 
 ---
